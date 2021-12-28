@@ -1,0 +1,18 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("https://previews.123rf.com/images/flas100/flas1001406/flas100140600011/28995375-abstract-colorful-watercolor-painted-background.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#Canvas{
+	border-width: 10px;
+	border-color: orangered;
+	border-style: ridge;
+	background-color: white;
+}
